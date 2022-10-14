@@ -1,7 +1,7 @@
 baseURL = "https://go-numb.github.io/movie/"
 languageCode = "ja"
 publishDir = "docs"  ######################### 追加
-# canonifyurls = true  ######################## 追加(相対URLを絶対URLに変換できるようにする)
+# canonifyurls = true  ######################## 追加(相対URLを絶対URLに変換できるようにする) ※ Themesによる
 
 title = "インデペンデント 紙とペンで"
 paginate = 5
