@@ -10,7 +10,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-xxx"
+googleAnalytics = "G-DEEHDYN8QM"
 pygmentsUseClasses = true
 
 [minify]
@@ -89,7 +89,7 @@ tocopen = false
   url = "https://github.com/go-numb"
 
 [params.analytics.google]
-SiteVerificationTag = "XYZabc"
+SiteVerificationTag = "G-DEEHDYN8QM"
 
 # [params.analytics.bing]
 # SiteVerificationTag = "XYZabc"
@@ -129,12 +129,14 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
+title = "映画見て、飲んだり、食べたり、喋ったりしてる場所を作りたいが、そう、まだない"
 identifier = "youtube"
 name = "YouTube"
 url = "https://www.youtube.com/moviexxx"
 weight = 30
 
 [[menu.main]]
+title = "時間が合うメンバーで映画見る場所、になる予定"
 identifier = "discord"
 name = "Discord"
 url = "https://discord.gg/Whp4rRyxeh"
