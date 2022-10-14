@@ -1,7 +1,7 @@
 baseURL = "https://go-numb.github.io/movie/"
 languageCode = "ja"
 publishDir = "docs"  ######################### 追加
-canonifyurls = true  ######################## 追加(相対URLを絶対URLに変換できるようにする)
+# canonifyurls = true  ######################## 追加(相対URLを絶対URLに変換できるようにする)
 
 title = "インデペンデント 紙とペンで"
 paginate = 5
@@ -73,8 +73,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "他人が見た世界をオレは見る！"
-  Content = "Welcome to my blog"
+  Title = "人が描いた世界を追いすぎて、自分の世界が放置プレイ"
+  Content = "映画見た備忘録"
 
   [[params.socialIcons]]
   name = "twitter"
@@ -103,7 +103,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/go-numb/movie/content"
+  URL = "https://github.com/go-numb/movie/blob/main/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
@@ -119,13 +119,13 @@ SiteVerificationTag = "XYZabc"
 [[menu.main]]
 identifier = "categories"
 name = "categories"
-url = "/movie/categories/"
+url = "/categories/"
 weight = 10
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
-url = "/movie/tags/"
+url = "/tags/"
 weight = 20
 
 [[menu.main]]
