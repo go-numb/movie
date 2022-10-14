@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on インデペンデント 紙とペンで</title>
+    <link>https://go-numb.github.io/movie/tags/</link>
+    <description>Recent content in Tags on インデペンデント 紙とペンで</description>
+    <image>
+      <url>https://go-numb.github.io/movie/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://go-numb.github.io/movie/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 15 Oct 2022 02:49:10 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>299円</title>
+      <link>https://go-numb.github.io/movie/tags/299%E5%86%86/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/299%E5%86%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AmazonPrime</title>
+      <link>https://go-numb.github.io/movie/tags/amazonprime/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/amazonprime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netflix</title>
+      <link>https://go-numb.github.io/movie/tags/netflix/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/netflix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>星1</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%98%9F1/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E6%98%9F1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>邦画洋画</title>
+      <link>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB%E6%B4%8B%E7%94%BB/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB%E6%B4%8B%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

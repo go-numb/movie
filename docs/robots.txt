@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://go-numb.github.io/movie/sitemap.xml
