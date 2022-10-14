@@ -119,13 +119,13 @@ SiteVerificationTag = "XYZabc"
 [[menu.main]]
 identifier = "categories"
 name = "categories"
-url = "/categories/"
+url = "/movie/categories/"
 weight = 10
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
-url = "/tags/"
+url = "/movie/tags/"
 weight = 20
 
 [[menu.main]]
