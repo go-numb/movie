@@ -9,7 +9,10 @@
     </h1>
     {{- if .Description }}
     <div class="post-description">
-      {{ .Description }}
+      <dl>
+        <dt>{{ .Description }}</dt>
+        <dd><small>{{ .Params.descriptText }}</small></dd>
+      </dl>
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}

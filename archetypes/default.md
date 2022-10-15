@@ -2,10 +2,13 @@
 # ルール
 # hugo new Categories/TITLE.md ※ Categoriesは半角英数字（日本語ではパンくずリストが機能しない
 # 基本下書きせずに出力
+# 一人称「ぼく」
+# 敬語なし、自分の頭での口頭文、自己言及、言い聞かせ風
 
 
 title: "{{ replace .Name "-" " " | title }}"
-description : "説明文"
+description : "あらすじ"
+descriptText : "XXXXXX"
 date: {{ .Date }}
 draft: false # 反映させる時はfalseに変えるかコメントアウト
 comments: true
@@ -24,13 +27,43 @@ type: post
 image: "images/og/{{ .Name }}.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
-caption: Product Mockup
+caption: Movie profile
 image: images/portfolio/item-2.jpg
 liveLink: link # ??
 # 右側の情報説明
-client: Julia Robertson
-submitDate: November 20, 2017
-category: ["mockup","design"] # tag
-location: 1201 park street, Avenue, Dhaka
+client: numbP
+submitDate: {{ .Date }}
+category: ["movie","netflix", "amazon prime"] # tag
+location: Tokyo, Japan
 
 ---
+
+## 選んだ理由
+
+
+
+-------------------------
+## 以後ネタバレやでぇ
+-------------------------
+
+## 感想
+
+
+
+## 感想の背景
+
+
+
+## その背景で心動いた理由
+
+
+
+## 心動いて至った考え
+
+
+
+## 見た前と見た後の印象や自分の変化
+
+
+
+## 総括し、実行へ至る考え

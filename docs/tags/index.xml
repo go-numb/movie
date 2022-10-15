@@ -12,15 +12,6 @@
     <language>ja</language>
     <lastBuildDate>Sat, 15 Oct 2022 02:49:10 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>299円</title>
-      <link>https://go-numb.github.io/movie/tags/299%E5%86%86/</link>
-      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/299%E5%86%86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AmazonPrime</title>
       <link>https://go-numb.github.io/movie/tags/amazonprime/</link>
       <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
@@ -30,29 +21,56 @@
     </item>
     
     <item>
-      <title>Netflix</title>
-      <link>https://go-numb.github.io/movie/tags/netflix/</link>
+      <title>伊藤沙莉</title>
+      <link>https://go-numb.github.io/movie/tags/%E4%BC%8A%E8%97%A4%E6%B2%99%E8%8E%89/</link>
       <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
       
-      <guid>https://go-numb.github.io/movie/tags/netflix/</guid>
+      <guid>https://go-numb.github.io/movie/tags/%E4%BC%8A%E8%97%A4%E6%B2%99%E8%8E%89/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>星1</title>
-      <link>https://go-numb.github.io/movie/tags/%E6%98%9F1/</link>
+      <title>星5</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%98%9F5/</link>
       <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
       
-      <guid>https://go-numb.github.io/movie/tags/%E6%98%9F1/</guid>
+      <guid>https://go-numb.github.io/movie/tags/%E6%98%9F5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>邦画洋画</title>
-      <link>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB%E6%B4%8B%E7%94%BB/</link>
+      <title>池松壮亮</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%B1%A0%E6%9D%BE%E5%A3%AE%E4%BA%AE/</link>
       <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
       
-      <guid>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB%E6%B4%8B%E7%94%BB/</guid>
+      <guid>https://go-numb.github.io/movie/tags/%E6%B1%A0%E6%9D%BE%E5%A3%AE%E4%BA%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無料</title>
+      <link>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>監督松居⼤悟</title>
+      <link>https://go-numb.github.io/movie/tags/%E7%9B%A3%E7%9D%A3%E6%9D%BE%E5%B1%85%E6%82%9F/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E7%9B%A3%E7%9D%A3%E6%9D%BE%E5%B1%85%E6%82%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>邦画</title>
+      <link>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB/</link>
+      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB/</guid>
       <description></description>
     </item>
     

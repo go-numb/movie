@@ -13,6 +13,7 @@ buildExpired = false
 googleAnalytics = "G-DEEHDYN8QM"
 pygmentsUseClasses = true
 
+
 [minify]
 disableXML = true
 minifyOutput = true
@@ -40,8 +41,8 @@ disableScrollToTop = false
 comments = false
 hidemeta = false
 hideSummary = false
-showtoc = false
-tocopen = false
+showtoc = true
+tocopen = true
 
   [params.assets]
   favicon = "<link / abs url>"
@@ -73,8 +74,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "人が描いた世界を追いすぎて、自分の世界が放置プレイ"
-  Content = "映画見た備忘録"
+  Title = "描いた人生追っかけて、自分の人生放置プレイ"
+  Content = "映画を見ます、忘れます、もう一度見ます、を辞める(?)ための映画備忘録"
 
   [[params.socialIcons]]
   name = "twitter"
@@ -144,3 +145,5 @@ weight = 30
 
 [markup.highlight]
 noClasses = false
+
+
