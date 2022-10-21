@@ -16,14 +16,14 @@ adsense: false
 archives: ["2022", "2022-10"]
 
 # Twitter card gen用設定"]
-author: ["@_numbP"]
+author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["邦画", "AmazonPrime", "100円", "星4", "監督クエンティン・タランティーノ", "レオナルド・ディカプリオ", "ブラッド・ピット"] # tag
 ogimage: "images/og/ONCE-UPON-A-TIME-IN-HOLLYWOOD.png" # tcardgenで生成した画像をOGP画像に設定する
 url: "/blog/ONCE-UPON-A-TIME-IN-HOLLYWOOD/" # tcardgenでの自動生成スクリプト用のパスを設定
 
 # Blog用---------------------------------------------------
-type: post
+type: blog
 image: "images/og/ONCE-UPON-A-TIME-IN-HOLLYWOOD.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------

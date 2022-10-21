@@ -5,8 +5,8 @@
     <link>https://go-numb.github.io/movie/tags/netflix/</link>
     <description>Recent content in Netflix on インデペンデント 紙とペンで</description>
     <image>
-      <url>https://go-numb.github.io/movie/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://go-numb.github.io/movie/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://go-numb.github.io/movie/</url>
+      <link>https://go-numb.github.io/movie/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -17,6 +17,15 @@
       <pubDate>Tue, 18 Oct 2022 16:58:39 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/blog/SKIN/</guid>
+      <description>あらすじ</description>
+    </item>
+    
+    <item>
+      <title>Coach Carter</title>
+      <link>https://go-numb.github.io/movie/blog/Coach-Carter/</link>
+      <pubDate>Sat, 15 Oct 2022 22:53:56 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/blog/Coach-Carter/</guid>
       <description>あらすじ</description>
     </item>
     

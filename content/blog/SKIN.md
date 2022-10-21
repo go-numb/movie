@@ -16,14 +16,14 @@ adsense: false
 archives: ["2022", "2022-10"]
 
 # Twitter card gen用設定"]
-author: ["@_numbP"]
+author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["洋画", "Netflix", "星4", "ネオナチ", "差別主義者"] # tag
 ogimage: "images/og/SKIN.png" # tcardgenで生成した画像をOGP画像に設定する
 url: "/blog/SKIN/" # tcardgenでの自動生成スクリプト用のパスを設定
 
 # Blog用---------------------------------------------------
-type: post
+type: blog
 image: "images/og/SKIN.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
@@ -37,6 +37,8 @@ category: ["movie", "netflix", "amazon prime"] # tag
 location: Tokyo, Japan
 
 ---
+
+
 
 ## 選んだ理由
 なぜだったか、サムネイルがゴリゴリのタトゥー兄ちゃんだったからか。  

@@ -7,7 +7,9 @@ title = "インデペンデント 紙とペンで"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
-buildDrafts = false
+enableInlineShortcodes = true
+enableEmoji = true
+buildDrafts = true
 buildFuture = false
 buildExpired = false
 googleAnalytics = "G-DEEHDYN8QM"
@@ -20,11 +22,11 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
-description = "ExampleSite description"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Me"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
+title = "他人の人生追っかけて、自分の人生放置プレイ"
+description = "映画を見ます、忘れます、もう一度見ます、を辞める(?)ための映画備忘録"
+keywords = [ "映画", "感想", "批評", "ブログ" ]
+author = "なぴた"
+images = [ "" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -45,11 +47,13 @@ showtoc = true
 tocopen = true
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = ""
+  favicon16x16 = ""
+  favicon32x32 = ""
+  apple_touch_icon = ""
+  safari_pinned_tab = ""
+  disableHLJS = false
+
 
   [params.label]
   text = "Home"
@@ -58,9 +62,9 @@ tocopen = true
 
   [params.profileMode]
   enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
+  title = "他人の人生追っかけて、自分の人生放置プレイ"
+  subtitle = "映画を見ます、忘れます、もう一度見ます、を卒業する(?)ための映画備忘録"
+  imageUrl = ""
   imageWidth = 120
   imageHeight = 120
   imageTitle = "my image"
@@ -74,8 +78,8 @@ tocopen = true
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "描いた人生追っかけて、自分の人生放置プレイ"
-  Content = "映画を見ます、忘れます、もう一度見ます、を辞める(?)ための映画備忘録"
+  Title = "他人の人生追っかけて、自分の人生放置プレイ"
+  Content = "映画を見ます、忘れます、もう一度見ます、を卒業する(?)ための映画備忘録"
 
   [[params.socialIcons]]
   name = "twitter"
@@ -117,8 +121,18 @@ SiteVerificationTag = "G-DEEHDYN8QM"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
+  [outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+
 [[menu.main]]
-identifier = "categories"
+identifier = "Archives"
+name = "archives"
+url = "/archives/"
+weight = 10
+
+[[menu.main]]
+identifier = "Categories"
 name = "categories"
 url = "/categories/"
 weight = 10
@@ -134,16 +148,22 @@ title = "映画見て、飲んだり、食べたり、喋ったりしてる場�
 identifier = "youtube"
 name = "YouTube"
 url = "https://www.youtube.com/moviexxx"
-weight = 30
+weight = 40
 
 [[menu.main]]
 title = "時間が合うメンバーで映画見る場所、になる予定"
 identifier = "discord"
 name = "Discord"
 url = "https://discord.gg/Whp4rRyxeh"
+weight = 40
+
+[[menu.main]]
+title = "サイト内検索"
+identifier = "Search"
+name = "Search"
+url = "/search/"
 weight = 30
 
 [markup.highlight]
 noClasses = false
-
 

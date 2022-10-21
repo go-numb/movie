@@ -23,7 +23,7 @@ ogimage: "images/og/{{ .Name }}.png" # tcardgenで生成した画像をOGP画像
 url: "/{{ .Type }}/{{ .Name }}/" # tcardgenでの自動生成スクリプト用のパスを設定
 
 # Blog用---------------------------------------------------
-type: post
+type: blog
 image: "images/og/{{ .Name }}.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
