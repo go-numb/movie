@@ -19,7 +19,7 @@ archives: ["2022", "2022-10"]
 author: ["@_numbP"]
 categories: ["映画備忘録"]
 tags: ["洋画", "Netflix", "実話", "無料", "星3"] # tag
-ogimage: "images/og/American Animals.png" # tcardgenで生成した画像をOGP画像に設定する
+ogimage: "images/favicon.jpg" # tcardgenで生成した画像をOGP画像に設定する
 url: "/blog/American Animals/" # tcardgenでの自動生成スクリプト用のパスを設定
 
 # Blog用---------------------------------------------------
@@ -27,9 +27,10 @@ type: blog
 image: "images/og/American Animals.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
-caption: Movie profile
-image: images/portfolio/item-2.jpg
+caption: "Movie profile"
+image: "images/portfolio/item-2.jpg"
 liveLink: link # ??
+
 # 右側の情報説明
 client: numbP
 submitDate: 2022-10-24T19:25:57+09:00

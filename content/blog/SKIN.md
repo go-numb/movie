@@ -24,12 +24,13 @@ url: "/blog/SKIN/" # tcardgenでの自動生成スクリプト用のパスを設
 
 # Blog用---------------------------------------------------
 type: blog
-image: "images/og/SKIN.png" # ブログバナーの画像
+image: "images/favicon.jpg" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
-caption: Movie profile
-image: images/portfolio/item-2.jpg
+caption: "Movie profile"
+image: "images/portfolio/item-2.jpg"
 liveLink: link # ??
+
 # 右側の情報説明
 client: numbP
 submitDate: 2022-10-18T16:58:39+09:00

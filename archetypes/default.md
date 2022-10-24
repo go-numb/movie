@@ -19,16 +19,17 @@ archives: ["{{ dateFormat "2006" .Date }}", "{{ dateFormat "2006-01" .Date }}"]
 author: ["@_numbP"]
 categories: ["映画備忘録"]
 tags: ["邦画洋画", "Netflix", "AmazonPrime", "無料", "星1"] # tag
-ogimage: "images/og/{{ .Name }}.png" # tcardgenで生成した画像をOGP画像に設定する
+# ogimage: "images/og/{{ .Name }}.png" # tcardgenで生成した画像をOGP画像に設定する
+ogimage: "images/favicon.jpg" # tcardgenで生成した画像をOGP画像に設定する
 url: "/{{ .Type }}/{{ .Name }}/" # tcardgenでの自動生成スクリプト用のパスを設定
 
 # Blog用---------------------------------------------------
 type: blog
-image: "images/og/{{ .Name }}.png" # ブログバナーの画像
+image: "images/blog/{{ .Name }}.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
-caption: Movie profile
-image: images/portfolio/item-2.jpg
+caption: "Movie profile"
+image: "images/og/{{ .Name }}.png"
 liveLink: link # ??
 
 # 右側の情報説明

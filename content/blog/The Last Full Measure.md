@@ -19,7 +19,7 @@ archives: ["2022", "2022-10"]
 author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["洋画", "戦争", "実話", "AmazonPrime", "無料", "星5"] # tag
-ogimage: "images/og/The Last Full Measure.png" # tcardgenで生成した画像をOGP画像に設定する
+ogimage: "images/favicon.jpg" # tcardgenで生成した画像をOGP画像に設定する
 url: "/blog/The Last Full Measure/" # tcardgenでの自動生成スクリプト用のパスを設定
 
 # Blog用---------------------------------------------------
@@ -27,9 +27,10 @@ type: blog
 image: "images/og/The Last Full Measure.png" # ブログバナーの画像
 
 # Portfolio用----------------------------------------------
-caption: Movie profile
-image: images/portfolio/item-2.jpg
+caption: "Movie profile"
+image: "images/portfolio/item-2.jpg"
 liveLink: link # ??
+
 # 右側の情報説明
 client: numbP
 submitDate: 2022-10-20T21:16:12+09:00
