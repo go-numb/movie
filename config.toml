@@ -47,11 +47,11 @@ showtoc = true
 tocopen = true
 
   [params.assets]
-  favicon = ""
-  favicon16x16 = ""
-  favicon32x32 = ""
-  apple_touch_icon = ""
-  safari_pinned_tab = ""
+  favicon = "images/favicon.ico"
+  favicon16x16 = "images/favicon-16x16.ico"
+  favicon32x32 = "images/favicon.ico"
+  apple_touch_icon = "images/favicon-16x16.ico"
+  safari_pinned_tab = "images/favicon-32x32.ico"
   disableHLJS = false
 
 
