@@ -3,8 +3,8 @@
 # hugo new Categories/TITLE.md ※ Categoriesは半角英数字（日本語ではパンくずリストが機能しない
 # 基本下書きせずに出力
 # 一人称「ぼく」
-# 敬語なし、自分の頭での口頭文、自己言及、言い聞かせ風
-
+# 敬語なし、自分の頭での口頭文、自己言及で言い聞かせ風
+# 中学生にも分かる語彙を選ぶ
 
 title: "{{ replace .Name "-" " " | title }}"
 description : "あらすじ"
@@ -18,7 +18,7 @@ archives: ["{{ dateFormat "2006" .Date }}", "{{ dateFormat "2006-01" .Date }}"]
 # Twitter card gen用設定"]
 author: ["@_numbP"]
 categories: ["映画備忘録"]
-tags: ["邦画洋画", "Netflix", "AmazonPrime", "299円", "星1"] # tag
+tags: ["邦画洋画", "Netflix", "AmazonPrime", "無料", "星1"] # tag
 ogimage: "images/og/{{ .Name }}.png" # tcardgenで生成した画像をOGP画像に設定する
 url: "/{{ .Type }}/{{ .Name }}/" # tcardgenでの自動生成スクリプト用のパスを設定
 
@@ -30,6 +30,7 @@ image: "images/og/{{ .Name }}.png" # ブログバナーの画像
 caption: Movie profile
 image: images/portfolio/item-2.jpg
 liveLink: link # ??
+
 # 右側の情報説明
 client: numbP
 submitDate: {{ .Date }}

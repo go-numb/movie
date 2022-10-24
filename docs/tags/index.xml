@@ -10,22 +10,58 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Oct 2022 21:16:12 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 19:25:57 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AmazonPrime</title>
-      <link>https://go-numb.github.io/movie/tags/amazonprime/</link>
-      <pubDate>Thu, 20 Oct 2022 21:16:12 +0900</pubDate>
+      <title>Netflix</title>
+      <link>https://go-numb.github.io/movie/tags/netflix/</link>
+      <pubDate>Mon, 24 Oct 2022 19:25:57 +0900</pubDate>
       
-      <guid>https://go-numb.github.io/movie/tags/amazonprime/</guid>
+      <guid>https://go-numb.github.io/movie/tags/netflix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>実話</title>
       <link>https://go-numb.github.io/movie/tags/%E5%AE%9F%E8%A9%B1/</link>
-      <pubDate>Thu, 20 Oct 2022 21:16:12 +0900</pubDate>
+      <pubDate>Mon, 24 Oct 2022 19:25:57 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/tags/%E5%AE%9F%E8%A9%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>星3</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%98%9F3/</link>
+      <pubDate>Mon, 24 Oct 2022 19:25:57 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E6%98%9F3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>洋画</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</link>
+      <pubDate>Mon, 24 Oct 2022 19:25:57 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無料</title>
+      <link>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</link>
+      <pubDate>Mon, 24 Oct 2022 19:25:57 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AmazonPrime</title>
+      <link>https://go-numb.github.io/movie/tags/amazonprime/</link>
+      <pubDate>Thu, 20 Oct 2022 21:16:12 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/amazonprime/</guid>
       <description></description>
     </item>
     
@@ -44,33 +80,6 @@
       <pubDate>Thu, 20 Oct 2022 21:16:12 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/tags/%E6%98%9F5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>洋画</title>
-      <link>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</link>
-      <pubDate>Thu, 20 Oct 2022 21:16:12 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>無料</title>
-      <link>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</link>
-      <pubDate>Thu, 20 Oct 2022 21:16:12 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Netflix</title>
-      <link>https://go-numb.github.io/movie/tags/netflix/</link>
-      <pubDate>Tue, 18 Oct 2022 16:58:39 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/netflix/</guid>
       <description></description>
     </item>
     

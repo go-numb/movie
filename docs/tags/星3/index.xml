@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Netflix on インデペンデント 紙とペンで</title>
-    <link>https://go-numb.github.io/movie/tags/netflix/</link>
-    <description>Recent content in Netflix on インデペンデント 紙とペンで</description>
+    <title>星3 on インデペンデント 紙とペンで</title>
+    <link>https://go-numb.github.io/movie/tags/%E6%98%9F3/</link>
+    <description>Recent content in 星3 on インデペンデント 紙とペンで</description>
     <image>
       <url>https://go-numb.github.io/movie/</url>
       <link>https://go-numb.github.io/movie/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Oct 2022 19:25:57 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 19:25:57 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/%E6%98%9F3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>絵画窃盗の驚愕の実話 American Animal</title>
       <link>https://go-numb.github.io/movie/blog/American%20Animals/</link>
       <pubDate>Mon, 24 Oct 2022 19:25:57 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/blog/American%20Animals/</guid>
-      <description>あらすじ</description>
-    </item>
-    
-    <item>
-      <title>白人至上主義集団からの解脱物語 SKIN/スキン</title>
-      <link>https://go-numb.github.io/movie/blog/SKIN/</link>
-      <pubDate>Tue, 18 Oct 2022 16:58:39 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/blog/SKIN/</guid>
       <description>あらすじ</description>
     </item>
     
