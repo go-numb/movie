@@ -15,7 +15,7 @@ comments: true
 adsense: false
 archives: ["2022", "2022-10"]
 
-# Twitter card gen用設定"]
+# Twitter card gen用設定
 author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["洋画", "Netflix", "星4", "ネオナチ", "差別主義者"] # tag

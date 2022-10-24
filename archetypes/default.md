@@ -13,10 +13,10 @@ date: {{ .Date }}
 draft: false # 反映させる時はfalseに変えるかコメントアウト
 comments: true
 adsense: false
-archives: ["{{ dateFormat "2006" .Date }}", "{{ dateFormat "2006-01" .Date }}"]
+archives: ["/{{ dateFormat "2006" .Date }}/", "/{{ dateFormat "2006-01" .Date }}/"]
 
-# Twitter card gen用設定"]
-author: ["@_numbP"]
+# Twitter card gen用設定
+author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["邦画洋画", "Netflix", "AmazonPrime", "無料", "星1"] # tag
 # ogimage: "images/og/{{ .Name }}.png" # tcardgenで生成した画像をOGP画像に設定する

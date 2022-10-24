@@ -15,7 +15,7 @@ comments: true
 adsense: false
 archives: ["2022", "2022-10"]
 
-# Twitter card gen用設定"]
+# Twitter card gen用設定
 author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["邦画洋画", "Netflix", "AmazonPrime", "299円", "星1"] # tag

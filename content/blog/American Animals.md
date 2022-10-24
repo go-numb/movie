@@ -15,8 +15,8 @@ comments: true
 adsense: false
 archives: ["2022", "2022-10"]
 
-# Twitter card gen用設定"]
-author: ["@_numbP"]
+# Twitter card gen用設定
+author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["洋画", "Netflix", "実話", "無料", "星3"] # tag
 ogimage: "images/favicon.jpg" # tcardgenで生成した画像をOGP画像に設定する

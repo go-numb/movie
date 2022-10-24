@@ -15,7 +15,7 @@ comments: true
 adsense: false
 archives: ["2022", "2022-10"]
 
-# Twitter card gen用設定"]
+# Twitter card gen用設定
 author: ["なぴた"]
 categories: ["映画備忘録"]
 tags: ["邦画", "AmazonPrime", "100円", "星4", "監督クエンティン・タランティーノ", "レオナルド・ディカプリオ", "ブラッド・ピット"] # tag
