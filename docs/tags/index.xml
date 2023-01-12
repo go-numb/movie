@@ -10,22 +10,58 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Nov 2022 12:36:11 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 22:27:03 +0900</lastBuildDate><atom:link href="https://go-numb.github.io/movie/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AmazonPrime</title>
+      <link>https://go-numb.github.io/movie/tags/amazonprime/</link>
+      <pubDate>Wed, 11 Jan 2023 22:27:03 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/amazonprime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>星5</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%98%9F5/</link>
+      <pubDate>Wed, 11 Jan 2023 22:27:03 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E6%98%9F5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>洋画</title>
+      <link>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</link>
+      <pubDate>Wed, 11 Jan 2023 22:27:03 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>無料</title>
+      <link>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</link>
+      <pubDate>Wed, 11 Jan 2023 22:27:03 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>邦画</title>
+      <link>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB/</link>
+      <pubDate>Wed, 11 Jan 2023 22:27:03 +0900</pubDate>
+      
+      <guid>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>299円</title>
       <link>https://go-numb.github.io/movie/tags/299%E5%86%86/</link>
       <pubDate>Mon, 28 Nov 2022 12:36:11 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/tags/299%E5%86%86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AmazonPrime</title>
-      <link>https://go-numb.github.io/movie/tags/amazonprime/</link>
-      <pubDate>Mon, 28 Nov 2022 12:36:11 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/amazonprime/</guid>
       <description></description>
     </item>
     
@@ -48,24 +84,6 @@
     </item>
     
     <item>
-      <title>星5</title>
-      <link>https://go-numb.github.io/movie/tags/%E6%98%9F5/</link>
-      <pubDate>Mon, 28 Nov 2022 12:36:11 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/%E6%98%9F5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>洋画</title>
-      <link>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</link>
-      <pubDate>Mon, 28 Nov 2022 12:36:11 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/%E6%B4%8B%E7%94%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SF</title>
       <link>https://go-numb.github.io/movie/tags/sf/</link>
       <pubDate>Thu, 17 Nov 2022 20:52:12 +0900</pubDate>
@@ -80,15 +98,6 @@
       <pubDate>Thu, 17 Nov 2022 20:52:12 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/tags/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>無料</title>
-      <link>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</link>
-      <pubDate>Thu, 17 Nov 2022 20:52:12 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/%E7%84%A1%E6%96%99/</guid>
       <description></description>
     </item>
     
@@ -179,15 +188,6 @@
       <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
       
       <guid>https://go-numb.github.io/movie/tags/%E7%9B%A3%E7%9D%A3%E6%9D%BE%E5%B1%85%E6%82%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>邦画</title>
-      <link>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB/</link>
-      <pubDate>Sat, 15 Oct 2022 02:49:10 +0900</pubDate>
-      
-      <guid>https://go-numb.github.io/movie/tags/%E9%82%A6%E7%94%BB/</guid>
       <description></description>
     </item>
     
